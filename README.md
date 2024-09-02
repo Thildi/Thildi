@@ -1,6 +1,13 @@
 ## Hi there 👋
 
 I am Marthilda and I am learning how to code!
+Currently, I am doing a web development bootcamp, and I am excited to see what I will learn.
+
+Things I like:
+- Plants
+- Swimming
+- Singing
+
 
 <!--
 **Thildi/Thildi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
