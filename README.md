@@ -1,12 +1,11 @@
-## Hi there 👋
+## Hi there 😄
 
 I am Marthilda and I am learning how to code!
 Currently, I am doing a web development bootcamp, and I am excited to see what I will learn.
 
-**Things I like:**
-- Plants
-- Swimming
-- Singing
+- 🌱 I’m currently learning Web Development
+- 👯 I’m looking to collaborate on interesting projects
+
 
 
 <!--
