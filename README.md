@@ -1,7 +1,9 @@
 ## Welcome to my ✨GitHub✨!
 
 Hello, my name is Marthilda, and I aspire to be a software developer.
+
 My nickname is Thildi 😊
+
 I am currently attending a coding bootcamp at [neuefische](https://www.neuefische.de/), and I am excited because my journey has just begun.
 
 **Technologies I learn:**
