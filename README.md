@@ -3,7 +3,7 @@
 I am Marthilda and I am learning how to code!
 Currently, I am doing a web development bootcamp, and I am excited to see what I will learn.
 
-Things I like:
+**Things I like:**
 - Plants
 - Swimming
 - Singing
