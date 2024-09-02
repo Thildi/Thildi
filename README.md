@@ -1,12 +1,10 @@
-## Welcome to my ✨GitHub✨!
+## Welcome to my GitHub!
 
-Hello, my name is Marthilda, and I aspire to be a software developer.
-
-My nickname is Thildi 😊
+### Hello, my name is Marthilda, and I aspire to be a software developer.
 
 I am currently attending a coding bootcamp at [neuefische](https://www.neuefische.de/), and I am excited because my journey has just begun.
 
-**Technologies I learn:**
+_Technologies I learn:_
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
@@ -16,11 +14,14 @@ I am currently attending a coding bootcamp at [neuefische](https://www.neuefisch
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 
+_Things I like_
 
-- 🌱 I’m currently learning Web Development
-- 👯 I’m looking to collaborate on interesting projects
+- 🌱 I am a former gardener and I am really into garden planning
+- 🍳 Cooking and baking
+- 🐱 Cats
+- 🌟 Coding
 
-
+![I love cats and coding](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVtaGRmYXh1NnlzOXJpbTdjdmR2NmozODBxOWF6eDAxZ3d6ZXB4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif)
 
 <!--
 **Thildi/Thildi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
