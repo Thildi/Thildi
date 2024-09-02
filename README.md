@@ -1,7 +1,8 @@
-## Hi there 😄
+## Welcome to my ✨GitHub✨!
 
-I am Marthilda and I am learning how to code!
-Currently, I am doing a web development bootcamp, and I am excited to see what I will learn.
+Hello, my name is Marthilda, and I aspire to be a software developer.
+I am currently attending a coding bootcamp, and I am excited because my journey has just begun.
+
 
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on interesting projects
