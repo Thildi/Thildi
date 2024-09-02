@@ -14,7 +14,7 @@ _Technologies I learn:_
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 
-_Things I like_
+_Things I like:_
 
 - 🌱 I am a former gardener and I am really into garden planning
 - 🍳 Cooking and baking
