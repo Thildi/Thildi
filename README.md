@@ -13,16 +13,6 @@ _Technologies I learn:_
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
-
-_Things I like:_
-
-- 🌱 I am a former gardener and I am really into garden planning
-- 🍳 Cooking and baking
-- 🐱 Cats
-- 🌟 Coding
-
-![I love cats and coding](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVtaGRmYXh1NnlzOXJpbTdjdmR2NmozODBxOWF6eDAxZ3d6ZXB4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif)
-
 <!--
 **Thildi/Thildi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
