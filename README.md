@@ -2,8 +2,6 @@
 
 ### Hello, my name is Marthilda, and I aspire to be a `software developer`.
 
-I am currently attending a coding bootcamp at [neuefische](https://www.neuefische.de/), and I am excited because my journey has just begun.
-
 _Technologies I learn:_
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
